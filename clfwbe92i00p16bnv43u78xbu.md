@@ -37,7 +37,7 @@ int main(void)
 
 Since you are using the [online terminal](https://www.replit.com), click "run".
 
-If you were using your local environment, you would compile it with GCC as we saw in the last lesson. For example, if this program was saved as agnes.c, you would type this in your terminal : `gcc agnes.c -o agnes.`
+If you were using your local environment, you would compile it with GCC as we saw in the last lesson. For example, if this program was saved as agnes.c, you would type this in your terminal : `gcc agnes.c -o agnes` .
 
 It is now time for our compiler to check our code and translate it into a language our computer can understand. Shoot! Did the compiler return an error message? Check what you typed again. Are you sure you typed exactly what I asked you to type? Check again. Let's look at your first line.
 
