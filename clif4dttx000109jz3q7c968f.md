@@ -1,8 +1,8 @@
 ---
-title: "A Magical Guide to Format Specifiers in C Programming: Unlock the Power of Data Representation"
+title: "A Guide to Format Specifiers: Unlock the Power of Data Representation"
 datePublished: Thu Apr 06 2023 22:11:04 GMT+0000 (Coordinated Universal Time)
 cuid: clif4dttx000109jz3q7c968f
-slug: a-magical-guide-to-format-specifiers-in-c-programming-unlock-the-power-of-data-representation
+slug: a-guide-to-format-specifiers-unlock-the-power-of-data-representation
 tags: c-programming, c
 
 ---
